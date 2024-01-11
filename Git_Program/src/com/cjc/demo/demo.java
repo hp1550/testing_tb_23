@@ -6,6 +6,10 @@ public class demo
 	{
 		System.out.println("A");
 	}
+	public void a1()
+	{
+		System.out.println("A");
+	}
 
 	public static void main(String[] args) 
 	{
